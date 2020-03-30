@@ -1,0 +1,25 @@
+{
+  "name": "cypher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasProcopio/codenation-cripto-challange.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasProcopio/codenation-cripto-challange/issues"
+  },
+  "homepage": "https://github.com/LucasProcopio/codenation-cripto-challange#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cross-blob": "^1.2.2",
+    "form-data": "^3.0.0"
+  }
+}
